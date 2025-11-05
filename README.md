@@ -37,24 +37,6 @@ A full-stack **MERN Blog Application** that lets users **create, edit, delete, a
 
 ---
 
-```
-
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/mern-blog.git
-cd mern-blog
-```
-
-### 2️⃣ Install dependencies
-```bash
-cd server && npm install
-cd ../client && npm install
-```
-
 ### 3️⃣ Setup environment variables
 Create `.env` in `/server` with:
 ```
@@ -64,5 +46,5 @@ JWT_SECRET=your_secret
 SESSION_SECRET=your_session_secret
 ```
 
-
-
+## 🙋‍♂️ Author
+Made with ❤️ by Jeesan Abbas
